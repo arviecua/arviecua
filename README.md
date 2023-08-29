@@ -1,7 +1,8 @@
 ### Hi there 👋
 <hr>
 🔭 I’m currently working on my Portfolio using HTML, CSS, and Javascript <br>
-🌱 I’m currently learning Javascript and PHP for web development
+🌱 I’m currently learning Javascript and PHP for web development <br>
+⚡ Fun fact: Besides coding I am interested and willing to learn more about Trading 
 
 
 
