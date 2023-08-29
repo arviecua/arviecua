@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on my Portfolio using HTML, CSS, and Javascript
+<hr>
+🔭 I’m currently working on my Portfolio using HTML, CSS, and Javascript <br>
 🌱 I’m currently learning Javascript and PHP for web development
 
 
